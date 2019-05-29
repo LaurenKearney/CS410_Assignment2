@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="sensor/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/Users/laurenkearney/Documents/School/CS_410_SPRING_2019/Eclipse/SensorsLibs.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java JDK 12 [12.0.1]"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
